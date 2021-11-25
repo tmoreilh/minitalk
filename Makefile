@@ -1,16 +1,16 @@
-NAME	=	server
+NAME	=	serveur
 
 NAME1	=	client
 
-NAME_B	=	server_bonus
+NAME_B	=	serveur_bonus
 
 NAME1_B	=	client_bonus
 
-SRC		=	server.c
+SRC		=	serveur.c
 
 SRC1	=	client.c
 
-SRC_B	=	server_bonus.c
+SRC_B	=	serveur_bonus.c
 
 SRC1_B	=	client_bonus.c
 
